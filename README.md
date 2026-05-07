@@ -1,1 +1,1 @@
-# StyleARZ
+# StyleARZ - Стиль для XenForo 
